@@ -91,7 +91,7 @@ async def start_(c: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/Alone45-45/video-stream"
+                        "🌐 Source Code", url="https://github.com/Alone45-45/Nobita"
                     )
                 ],
             ]
