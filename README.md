@@ -5,4 +5,4 @@
 
 ## ʟɪᴄᴇɴsᴇ
 
-ᴅɪsᴛʀɪʙᴜᴛᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ɢɴᴜ ɢᴇɴᴇʀᴀʟ ᴘᴜʙʟɪᴄ ʟɪᴄᴇɴsᴇ ᴠ𝟹.𝟶 ʟɪᴄᴇɴsᴇ](https://github.com/Alone45-45/Nobita/blob/main/LICENSE) sᴇᴇ ʟɪᴄᴇɴsᴇ.ᴍᴅ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ..
+ᴅɪsᴛʀɪʙᴜᴛᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ɢɴᴜ ɢᴇɴᴇʀᴀʟ ᴘᴜʙʟɪᴄ ʟɪᴄᴇɴsᴇ ᴠ𝟹.𝟶 ʟɪᴄᴇɴsᴇ](https://github.com/Alone45-45/Nobita/blob/main/LICENSE) sᴇᴇ LICENSE.md ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ..
