@@ -36,7 +36,7 @@
             "required": true
         },
         "MONGODB_URL": {
-            "description": "fill with the mongodb url, You must create it first from cloud.mongodb.com (tutorial about how to make it, find it on @VeezSupportGroup)",
+            "description": "fill with the mongodb url, You must create it first from cloud.mongodb.com (tutorial about how to make it, find it on @The_Xmenteam)",
             "required": true
         },
         "SUDO_USERS": {
