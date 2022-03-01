@@ -1,5 +1,5 @@
 # ɴᴏʙɪᴛᴀ
-<p align="center"><a href="https://t.me/Nobita_Doremon_bot"><img src="https://github.com/Alone45-45/video-stream/raw/main/driver/veezlogo.png"></a></p>
+<p align="center"><a href="https://t.me/Nobita_Doremon_bot"><img src="https://github.com/Alone45-45/Nobita/raw/main/driver/Nobita.png"></a></p>
 <p align="center">
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ!</h4>    
