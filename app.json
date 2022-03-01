@@ -13,7 +13,7 @@
     ],
     "website": "https://t.me/TheJerryNetwork",
     "repository": "https://github.com/Alone45-45/Nobita",
-    "success_url": "https://t.me/dlwrml",
+    "success_url": "https://t.me/nobita_and_doraemon",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
