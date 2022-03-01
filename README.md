@@ -5,4 +5,4 @@
 
 ## ʟɪᴄᴇɴsᴇ
 
-Distributed under the [GNU General Public License v3.0 License](https://github.com/Alone45-45/Nobita/blob/main/LICENSE) See `LICENSE.md` for more information.
+ᴅɪsᴛʀɪʙᴜᴛᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ɢɴᴜ ɢᴇɴᴇʀᴀʟ ᴘᴜʙʟɪᴄ ʟɪᴄᴇɴsᴇ ᴠ𝟹.𝟶 ʟɪᴄᴇɴsᴇ](https://github.com/Alone45-45/Nobita/blob/main/LICENSE) See `LICENSE.md` for more information.
