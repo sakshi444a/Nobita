@@ -52,7 +52,7 @@ async def start_set(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/Alone45-45/video-stream"
+                        "🌐 Source Code", url="https://github.com/Alone45-45/Nobita"
                     )
                 ],
             ]
