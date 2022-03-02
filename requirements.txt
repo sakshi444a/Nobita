@@ -4,9 +4,7 @@ ffmpeg-python
 py-tgcalls
 pyrogram
 youtube-search-python
-yt-dlp
 lyricsgenius
-speedtest-cli
 youtube-search
 python-dotenv
 dnspython
