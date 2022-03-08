@@ -11,8 +11,8 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/TheJerryNetwork",
-    "repository": "https://github.com/Alone45-45/Nobita",
+    "website": "https://t.me/sfl_network",
+    "repository": "https://github.com/sakshi444a/Nobita",
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
